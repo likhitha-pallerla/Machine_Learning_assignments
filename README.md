@@ -1,4 +1,4 @@
-# Machine_Learning_assignments
+# Machine_Learning_assignment 10
 Course Assignment 10 (Clustering , Numpy basics and Comparison of Supervised & Unsupervised)
 
 Problem Statement 1 : Say you are standing at the bottom of a staircase with  a dice. With each throw of the dice you either move down one step (if you get a 1 or 2 on the dice) or move up one step (if you get a 3, 4 or 5 on the dice). If you throw a 6 on the dice, you throw the dice again and move up the staircase by the number you get on that second throw. Note if you are on the base of the staircase you cannot move down! What is the probability that you will reach more than 60 steps after 250 throws of the dice. Change the code so that you have a function that takes as parameter, the number of throws
